@@ -162,8 +162,10 @@ python main.py
 ## 📸 Screenshots
 
 > *(Add your screenshots here for better presentation)*
-> <img width="881" height="765" alt="Screenshot 2026-03-18 233809" src="https://github.com/user-attachments/assets/a4cd23eb-b22c-4804-9de7-7b6c8205a5de" />
-> <img width="446" height="471" alt="image" src="https://github.com/user-attachments/assets/afa1b1b6-569f-4572-9699-d05cb493d4a2" />
+<img width="892" height="939" alt="Screenshot 2026-03-24 012707" src="https://github.com/user-attachments/assets/b3f01f5e-492d-45cb-9c5c-9d52d5b453e5" />
+<img width="894" height="940" alt="Screenshot 2026-03-24 012647" src="https://github.com/user-attachments/assets/b21d71e6-4de1-493e-9789-72fc7e9c9350" />
+
+
 
 
 ---
